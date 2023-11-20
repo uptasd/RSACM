@@ -1,0 +1,341 @@
+{
+  "obstetrics": [
+    {
+      "Pregnancy check-up": [
+        [
+          "Ultrasound scanner",
+          "fetal monitoring equipment"
+        ],
+        [
+          "Obstetric examination knowledge",
+          "Imaging analysis skills"
+        ]
+      ]
+    },
+    {
+      "childbirth": [
+        [
+          "Delivery room equipment",
+          "surgical knife"
+        ],
+        [
+          "Obstetric operation skills",
+          "perinatal coping skills"
+        ]
+      ]
+    },
+    {
+      "postpartum care": [
+        [
+          "Delivery room equipment",
+          "puerperal bed"
+        ],
+        [
+          "Postpartum care knowledge",
+          "Maternal and child health management skills"
+        ]
+      ]
+    }
+  ],
+  "Hepatobiliary Surgery": [
+    {
+      "liver cancer surgery": [
+        [
+          "surgical knife",
+          "Liver surgery instruments"
+        ],
+        [
+          "Basic skills of hepatobiliary surgery",
+          "Liver cancer surgery skills"
+        ]
+      ]
+    },
+    {
+      "gallbladder stone surgery": [
+        [
+          "surgical knife",
+          "Laparoscopy"
+        ],
+        [
+          "Basic skills of biliary surgery",
+          "Gallbladder stone surgery skills"
+        ]
+      ]
+    },
+    {
+      "liver failure treatment": [
+        [
+          "liver transplant equipment",
+          "drug"
+        ],
+        [
+          "Hepatobiliary disease knowledge",
+          "Liver function support intervention skills"
+        ]
+      ]
+    }
+  ],
+  "Blood Transfusion": [
+    {
+      "blood transfusion therapy": [
+        [
+          "blood transfusion equipment",
+          "infusion set"
+        ],
+        [
+          "Blood transfusion knowledge",
+          "Clinical transfusion skills"
+        ]
+      ]
+    },
+    {
+      "blood product management": [
+        [
+          "refrigerator",
+          "Testing equipment"
+        ],
+        [
+          "Blood product knowledge",
+          "Blood product management skills"
+        ]
+      ]
+    }
+  ],
+  "Gynecology": [
+    {
+      "Gynecological examination": [
+        [
+          "Ultrasound scanner",
+          "colposcope"
+        ],
+        [
+          "Gynecological examination knowledge",
+          "Imaging analysis skills"
+        ]
+      ]
+    },
+    {
+      "cervical cancer screening": [
+        [
+          "Cervical Cytology Testing Equipment",
+          "HPV testing equipment"
+        ],
+        [
+          "Gynecological examination knowledge",
+          "Cervical Cancer Screening Skills"
+        ]
+      ]
+    },
+    {
+      "Gynecological surgery": [
+        [
+          "surgical knife",
+          "vaginal delivery scope"
+        ],
+        [
+          "Basic skills in obstetrics and gynecology",
+          "Gynecological surgery skills"
+        ]
+      ]
+    }
+  ],
+  "Cerebrovascular surgery": [
+    {
+      "brain aneurysm surgery": [
+        [
+          "surgical knife",
+          "Blood vessel repair materials"
+        ],
+        [
+          "Basic knowledge of cerebrovascular disease",
+          "Cerebral aneurysm surgery skills"
+        ]
+      ]
+    },
+    {
+      "Cerebral hemorrhage surgery": [
+        [
+          "surgical knife",
+          "Blood vessel repair materials"
+        ],
+        [
+          "Basic knowledge of cerebrovascular disease",
+          "Cerebral hemorrhage surgery skills"
+        ]
+      ]
+    },
+    {
+      "cerebral infarction surgery": [
+        [
+          "surgical knife",
+          "Blood vessel repair materials"
+        ],
+        [
+          "Basic knowledge of cerebrovascular disease",
+          "Cerebral infarction surgery skills"
+        ]
+      ]
+    }
+  ],
+  "Division of Rheumatology": [
+    {
+      "Rheumatoid Arthritis Treatment": [
+        [
+          "biologics",
+          "Ultrasound diagnostic instrument"
+        ],
+        [
+          "Arthroscopy",
+          "joint replacement technology"
+        ]
+      ]
+    },
+    {
+      "Lupus Treatment": [
+        [
+          "immunosuppressant",
+          "biologics"
+        ],
+        [
+          "immunodiagnostic technology",
+          "immunotherapy technology"
+        ]
+      ]
+    }
+  ],
+  "Emergency Medicine Department": [
+    {
+      "emergency treatment": [
+        [
+          "emergency equipment",
+          "emergency medicine"
+        ],
+        [
+          "Emergency Diagnosis and Treatment Technology",
+          "emergency treatment technology"
+        ]
+      ]
+    },
+    {
+      "critical illness care": [
+        [
+          "critical care equipment",
+          "Critical care medicines"
+        ],
+        [
+          "Critical illness diagnosis and treatment technology",
+          "Critical illness treatment technology"
+        ]
+      ]
+    }
+  ],
+  "Nephrology": [
+    {
+      "kidney disease treatment": [
+        [
+          "Dialysis Machine",
+          "kidney transplant equipment"
+        ],
+        [
+          "Kidney function testing technology",
+          "kidney treatment technology"
+        ]
+      ]
+    },
+    {
+      "Uremia treatment": [
+        [
+          "Dialysis Machine",
+          "blood purification equipment"
+        ],
+        [
+          "Uremia Diagnostic Technology",
+          "Uremia treatment technology"
+        ]
+      ]
+    }
+  ],
+  "Medical Oncology": [
+    {
+      "chemotherapy treatment": [
+        [
+          "Chemotherapy drugs",
+          "chemotherapy pump"
+        ],
+        [
+          "Cancer Diagnostic Technology",
+          "chemotherapy technology"
+        ]
+      ]
+    },
+    {
+      "radiotherapy treatment": [
+        [
+          "Radiotherapy equipment",
+          "radiotherapy drugs"
+        ],
+        [
+          "radiotherapy technology",
+          "Cancer Diagnostic Technology"
+        ]
+      ]
+    }
+  ],
+  "Gastrointestinal Surgery": [
+    {
+      "radical gastrectomy": [
+        [
+          "operating table",
+          "scalpel",
+          "coagulator"
+        ],
+        [
+          "Surgical techniques for radical gastrectomy",
+          "Gastrointestinal anastomosis technology",
+          "Portal lymph node dissection technique"
+        ]
+      ]
+    },
+    {
+      "Cholecystectomy": [
+        [
+          "operating table",
+          "scalpel",
+          "coagulator"
+        ],
+        [
+          "Surgical techniques for cholecystectomy",
+          "Nursing techniques after cholecystectomy"
+        ]
+      ]
+    }
+  ],
+  "Respiratory and critical care medicine department": [
+    {
+      "Mechanical Ventilation": [
+        [
+          "Ventilator",
+          "Oxygen machine",
+          "Tracheal intubation equipment"
+        ],
+        [
+          "Mechanical ventilation operating techniques",
+          "Complication prevention and management techniques of mechanical ventilation"
+        ]
+      ]
+    },
+    {
+      "Respiratory function test": [
+        [
+          "Pulmonary function tester",
+          "airway resistance meter",
+          "Blood oxygen saturation detector"
+        ],
+        [
+          "Respiratory function testing technology",
+          "Interpretation techniques for respiratory function test results"
+        ]
+      ]
+    }
+  ]
+}
